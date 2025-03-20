@@ -1,2 +1,0 @@
-## OUTPUT SCREENSHOT
-![OUTPUT](/scr.jpg)
